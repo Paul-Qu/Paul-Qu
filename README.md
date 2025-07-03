@@ -7,7 +7,7 @@ I'm a DevOps / SRE Engineer based in Beijing 🇨🇳, with strong experience in
 - **Infrastructure:** Kubernetes, Docker, Helm, Ansible
 - **Observability:** Prometheus, Grafana, ELK Stack, Alertmanager
 - **CI/CD:** GitLab CI, Jenkins, ArgoCD
-- **Cloud & Platform:** Private Cloud, BlueKing (蓝鲸), Harbor, Nacos
+- **Cloud & Platform:** Private Cloud, Alibaba Cloud,Huaweicloud, Harbor, Nacos
 - **Languages:** Bash, Python, Go (基础)
 
 ## 📌 Key Projects
