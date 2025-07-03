@@ -12,14 +12,14 @@ I'm a DevOps / SRE Engineer based in Beijing 🇨🇳, with strong experience in
 
 ## 📌 Key Projects
 
-### 管控工具平台（Middleware Control Platform）
+### 中间件管理平台（Middleware Control Platform）
 
 - Developed and maintained a Kubernetes-based middleware management platform for a national bank
 - Supported features like restart, scaling, migration, monitoring, alerting, and configuration management
 - Integrated with Prometheus + Grafana for system observability
 - Enabled one-click deployment and disaster recovery operations
 
-### 应用系统运行状态检测平台（APM）
+### APM
 
 - Built an application performance monitoring system from scratch
 - Provided real-time health metrics and alerts
